@@ -9,7 +9,7 @@
 
 - __Interests__: OOP, Cybersecurity
  
-- **Currently learning:** Java, KaliLinux
+- **Currently learning:** Java, KaliLinux, Shell
 
 - **Working with:** OSX, KaliLinux
 
