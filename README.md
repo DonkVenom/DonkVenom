@@ -17,8 +17,7 @@
  
 
                                                                                                 
-![mckyHS](https://cdn.discordapp.com/emojis/878007877699256391.webp?size=240&quality=lossless) 
-
+ 
 
 <br> 
 
