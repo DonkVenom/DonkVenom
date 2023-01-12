@@ -1,7 +1,7 @@
 
-## About me
+## About   
 
-**👋 I am a beginner - midlevel hobby-dev from europe**
+**beginner - midlevel hobby-dev from europe**
 
 
 
