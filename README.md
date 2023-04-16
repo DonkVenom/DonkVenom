@@ -1,7 +1,6 @@
 
  
-![TriHard7](https://cdn.discordapp.com/emojis/830386947636592670.webp?size=240&quality=lossless)
-
+Hello There!
 
 
 <!---
